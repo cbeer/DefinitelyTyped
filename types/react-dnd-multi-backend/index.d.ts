@@ -1,4 +1,4 @@
-// Type definitions for react-dnd-multi-backend 6.0
+// Type definitions for react-dnd-multi-backend 6.0.2
 // Project: https://github.com/LouisBrunner/react-dnd-multi-backend, https://louisbrunner.github.io/dnd-multi-backend/packages/react-dnd-multi-backend
 // Definitions by: Janeene Beeforth <https://github.com/dawnmist>
 //                 Adam Haglund <https://github.com/beeequeue>
